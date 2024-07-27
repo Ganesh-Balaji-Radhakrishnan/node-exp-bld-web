@@ -1,4 +1,4 @@
-# My Node.js and Express Web Application
+# Web application with Node.js and Express
 
 ## Table of Contents
 
